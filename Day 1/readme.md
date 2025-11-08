@@ -1,14 +1,15 @@
+# Day 1
 
-https://www.youtube.com/watch?v=EF9M0mKaNOo
+Video: https://www.youtube.com/watch?v=EF9M0mKaNOo
 
-Arty S7 25: 
+Arty S7 25:
 https://digilent.com/reference/_media/reference/programmable-logic/arty-s7/arty-s7_rm.pdf
 https://digilent.com/reference/programmable-logic/arty-s7/start
 
-Digilent XDC: 
+Digilent XDC:
 https://github.com/Digilent/digilent-xdc
 
-Vivado Guide: 
+Vivado Guide:
 https://docs.amd.com/r/en-US/ug910-vivado-getting-started/Introducing-the-Vivado-IDE
 
 Stacey's channel on FPGA:
