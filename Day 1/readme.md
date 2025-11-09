@@ -2,6 +2,10 @@
 
 Video: https://www.youtube.com/watch?v=EF9M0mKaNOo
 
+
+
+## References
+
 Arty S7 25:
 https://digilent.com/reference/_media/reference/programmable-logic/arty-s7/arty-s7_rm.pdf
 https://digilent.com/reference/programmable-logic/arty-s7/start
