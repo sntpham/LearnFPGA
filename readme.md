@@ -10,4 +10,11 @@ Each Day I will post a video on new topics, until I can work on a big project th
 
 - Day 1: Completed
 - Day 2: Completed
-- Day 3: In progress
+- Day 3: Completed
+- Day 4: In progress
+- Day 5:
+- Day 6:
+- Day 7:
+- Day 8:
+- Day 9:
+- Day 10:
