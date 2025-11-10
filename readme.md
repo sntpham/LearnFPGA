@@ -11,8 +11,8 @@ Each Day I will post a video on new topics, until I can work on a big project th
 - Day 1: Completed
 - Day 2: Completed
 - Day 3: Completed
-- Day 4: In progress
-- Day 5:
+- Day 4: Completed
+- Day 5: In progress
 - Day 6:
 - Day 7:
 - Day 8:
