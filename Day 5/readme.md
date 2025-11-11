@@ -1,9 +1,7 @@
 # Day 5
 
-## Todo today
-
-computer architecture review
+Video: https://www.youtube.com/watch?v=bYlG3c4Xnr0
 
 ## References
 
-## Todo next day
+Book: Digital Design and Computer Architecture by David Harris (Author), Sarah Harris (Author)
