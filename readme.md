@@ -15,6 +15,6 @@ Each Day I will post a video on new topics, until I can work on a big project th
 - Day 5: Completed  [[FPGA ]Verilog and Vivado - Day 5: MIPS, RISC, CISC, Assembly, Stack](https://www.youtube.com/watch?v=bYlG3c4Xnr0)
 - Day 6: Completed  [[FPGA ]Verilog and Vivado - Day 6: VRAM, SDRAM](https://www.youtube.com/watch?v=3lPnyRsQjBQ)
 - Day 7: Completed  [[FPGA ]Verilog and Vivado - Day 7: Firmware, Driver, SSD](https://www.youtube.com/watch?v=1VZpgnKixS0)
-- Day 8:
+- Day 8: Completed  [[FPGA ]Verilog and Vivado - Day 8: 8b10b, failed to understand PCIe (will try again)](https://www.youtube.com/watch?v=DtHPWh32z0A)
 - Day 9:
 - Day 10:
