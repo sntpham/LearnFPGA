@@ -20,6 +20,6 @@ Each Day I will post a video on new topics, until I can work on a big project th
 - Day 10:
 
 
-These videos may have many errors because I learn in a short time. I decided to stop on day 9 because I don't think these video will help anyone. They may just be noise; however, I realized, I need to make them first, then improve to make them better. There is no such perfect thing, but we will try to make them better day by day.
+These videos may have many errors because I learn in a short time. I decided to stop on day 9 because I don't think these videos will help anyone. They may just be noise, just to polish my skill and ego; however, I realized, there is no such perfect thing, but we will try to make them better day by day.
 
 So, I will complete day 10 and open a new series on other thing.
