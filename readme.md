@@ -17,8 +17,12 @@ Each Day I will post a video on new topics, until I can work on a big project th
 - Day 7: Completed  [[FPGA ]Verilog and Vivado - Day 7: Firmware, Driver, SSD](https://www.youtube.com/watch?v=1VZpgnKixS0)
 - Day 8: Completed  [[FPGA ]Verilog and Vivado - Day 8: 8b10b, failed to understand PCIe (will try again)](https://www.youtube.com/watch?v=DtHPWh32z0A)
 - Day 9: Completed  [[FPGA ]Verilog and Vivado - Day 9: example sending command to endpoint (pcie)](https://www.youtube.com/watch?v=vqR1HpkIqWo)
-- Day 10: Pending
+- Day 10: Completed [[FPGA ]Verilog and Vivado - Day 10: system bus, point to point, pipeline, wafer, DMA, SerDes](https://www.youtube.com/watch?v=Sv5ZcSidlaQ)
 
 These videos may have many errors because I learn in a short time. I decided to stop on day 9 because I don't think these videos will help anyone. They may just be noise; however, I realized, there is no such perfect thing. I need to start first then improve day by day.
 
 So, I will complete day 10 and open a new series on other thing.
+
+# Completed
+
+My next step is to rewrite and making changes if there are any  conceptual errors.
